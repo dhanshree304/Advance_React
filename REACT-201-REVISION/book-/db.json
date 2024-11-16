@@ -1,0 +1,716 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "no_of_chapters": 6,
+      "author": "Masal",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "Full-Stack Web Development",
+      "category": "Technical",
+      "release_year": 2019,
+      "chapters": [
+        {
+          "name": "HTML",
+          "pages": 20
+        },
+        {
+          "name": "CSS",
+          "pages": 25
+        },
+        {
+          "name": "JavaScript",
+          "pages": 30
+        },
+        {
+          "name": "Node.js",
+          "pages": 35
+        },
+        {
+          "name": "React",
+          "pages": 40
+        },
+        {
+          "name": "Database Management",
+          "pages": 50
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "no_of_chapters": 8,
+      "author": "John Smith",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "Introduction to AI",
+      "category": "Technical",
+      "release_year": 2021,
+      "chapters": [
+        {
+          "name": "History of AI",
+          "pages": 15
+        },
+        {
+          "name": "Machine Learning",
+          "pages": 30
+        },
+        {
+          "name": "Neural Networks",
+          "pages": 35
+        },
+        {
+          "name": "Deep Learning",
+          "pages": 40
+        },
+        {
+          "name": "Natural Language Processing",
+          "pages": 25
+        },
+        {
+          "name": "Computer Vision",
+          "pages": 30
+        },
+        {
+          "name": "AI Ethics",
+          "pages": 20
+        },
+        {
+          "name": "Future of AI",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "no_of_chapters": 5,
+      "author": "Jane Doe",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "Modern Marketing Strategies",
+      "category": "Business",
+      "release_year": 2018,
+      "chapters": [
+        {
+          "name": "Digital Marketing",
+          "pages": 40
+        },
+        {
+          "name": "Content Marketing",
+          "pages": 35
+        },
+        {
+          "name": "Social Media Marketing",
+          "pages": 30
+        },
+        {
+          "name": "Email Marketing",
+          "pages": 25
+        },
+        {
+          "name": "SEO",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "no_of_chapters": 7,
+      "author": "Alice Johnson",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "Cybersecurity Basics",
+      "category": "Technical",
+      "release_year": 2020,
+      "chapters": [
+        {
+          "name": "Introduction to Cybersecurity",
+          "pages": 10
+        },
+        {
+          "name": "Types of Cyber Threats",
+          "pages": 20
+        },
+        {
+          "name": "Network Security",
+          "pages": 25
+        },
+        {
+          "name": "Cryptography",
+          "pages": 30
+        },
+        {
+          "name": "Security Protocols",
+          "pages": 20
+        },
+        {
+          "name": "Incident Response",
+          "pages": 25
+        },
+        {
+          "name": "Best Practices",
+          "pages": 15
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "no_of_chapters": 4,
+      "author": "Michael Brown",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "Project Management Essentials",
+      "category": "Business",
+      "release_year": 2017,
+      "chapters": [
+        {
+          "name": "Introduction to Project Management",
+          "pages": 25
+        },
+        {
+          "name": "Project Planning",
+          "pages": 30
+        },
+        {
+          "name": "Project Execution",
+          "pages": 35
+        },
+        {
+          "name": "Project Closure",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "no_of_chapters": 9,
+      "author": "Emily White",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "Python Programming",
+      "category": "Technical",
+      "release_year": 2022,
+      "chapters": [
+        {
+          "name": "Introduction to Python",
+          "pages": 15
+        },
+        {
+          "name": "Variables and Data Types",
+          "pages": 20
+        },
+        {
+          "name": "Control Structures",
+          "pages": 25
+        },
+        {
+          "name": "Functions",
+          "pages": 30
+        },
+        {
+          "name": "Modules and Packages",
+          "pages": 20
+        },
+        {
+          "name": "File Handling",
+          "pages": 25
+        },
+        {
+          "name": "Error Handling",
+          "pages": 15
+        },
+        {
+          "name": "Object-Oriented Programming",
+          "pages": 35
+        },
+        {
+          "name": "Advanced Topics",
+          "pages": 40
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "no_of_chapters": 6,
+      "author": "David Green",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "Cloud Computing Basics",
+      "category": "Technical",
+      "release_year": 2016,
+      "chapters": [
+        {
+          "name": "Introduction to Cloud Computing",
+          "pages": 10
+        },
+        {
+          "name": "Cloud Service Models",
+          "pages": 20
+        },
+        {
+          "name": "Cloud Deployment Models",
+          "pages": 15
+        },
+        {
+          "name": "Cloud Security",
+          "pages": 25
+        },
+        {
+          "name": "Cloud Providers",
+          "pages": 20
+        },
+        {
+          "name": "Future of Cloud Computing",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "no_of_chapters": 7,
+      "author": "Linda Brown",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "Data Science Fundamentals",
+      "category": "Technical",
+      "release_year": 2019,
+      "chapters": [
+        {
+          "name": "Introduction to Data Science",
+          "pages": 15
+        },
+        {
+          "name": "Data Collection",
+          "pages": 20
+        },
+        {
+          "name": "Data Cleaning",
+          "pages": 25
+        },
+        {
+          "name": "Data Analysis",
+          "pages": 30
+        },
+        {
+          "name": "Data Visualization",
+          "pages": 35
+        },
+        {
+          "name": "Machine Learning",
+          "pages": 40
+        },
+        {
+          "name": "Case Studies",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "no_of_chapters": 5,
+      "author": "Sarah Connorrrr",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "Digital Transformation",
+      "category": "Business",
+      "release_year": 2020,
+      "chapters": [
+        {
+          "name": "Introduction to Digital Transformation",
+          "pages": 20
+        },
+        {
+          "name": "Digital Strategy",
+          "pages": 25
+        },
+        {
+          "name": "Technologies Enabling Transformation",
+          "pages": 30
+        },
+        {
+          "name": "Organizational Change",
+          "pages": 25
+        },
+        {
+          "name": "Case Studies",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "no_of_chapters": 6,
+      "author": "Mark Lee",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "Blockchain Basics",
+      "category": "Technical",
+      "release_year": 2018,
+      "chapters": [
+        {
+          "name": "Introduction to Blockchain",
+          "pages": 10
+        },
+        {
+          "name": "How Blockchain Works",
+          "pages": 20
+        },
+        {
+          "name": "Blockchain Applications",
+          "pages": 25
+        },
+        {
+          "name": "Smart Contracts",
+          "pages": 15
+        },
+        {
+          "name": "Blockchain Security",
+          "pages": 20
+        },
+        {
+          "name": "Future of Blockchain",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "no_of_chapters": 4,
+      "author": "James King",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "Agile Methodology",
+      "category": "Business",
+      "release_year": 2017,
+      "chapters": [
+        {
+          "name": "Introduction to Agile",
+          "pages": 15
+        },
+        {
+          "name": "Agile Principles",
+          "pages": 20
+        },
+        {
+          "name": "Agile Practices",
+          "pages": 25
+        },
+        {
+          "name": "Case Studies",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "no_of_chapters": 8,
+      "author": "Nancy Drew",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "AI for Beginners",
+      "category": "Technical",
+      "release_year": 2021,
+      "chapters": [
+        {
+          "name": "Introduction to AI",
+          "pages": 10
+        },
+        {
+          "name": "History of AI",
+          "pages": 15
+        },
+        {
+          "name": "Machine Learning Basics",
+          "pages": 25
+        },
+        {
+          "name": "Neural Networks",
+          "pages": 30
+        },
+        {
+          "name": "Deep Learning",
+          "pages": 35
+        },
+        {
+          "name": "AI Tools",
+          "pages": 20
+        },
+        {
+          "name": "Ethical Considerations",
+          "pages": 25
+        },
+        {
+          "name": "Future of AI",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "no_of_chapters": 5,
+      "author": "Oliver Tcom/covers/lean-startup.jpg",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "Lean starrr",
+      "category": "Business",
+      "release_year": 2015,
+      "chapters": [
+        {
+          "name": "Introduction to Lean Startup",
+          "pages": 15
+        },
+        {
+          "name": "Build-Measure-Learn",
+          "pages": 20
+        },
+        {
+          "name": "Validated Learning",
+          "pages": 25
+        },
+        {
+          "name": "Pivot or Persevere",
+          "pages": 20
+        },
+        {
+          "name": "Case Studies",
+          "pages": 30
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "no_of_chapters": 6,
+      "author": "Sophia Holmes",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "Web Design Principles",
+      "category": "Technical",
+      "release_year": 2019,
+      "chapters": [
+        {
+          "name": "Introduction to Web Design",
+          "pages": 15
+        },
+        {
+          "name": "HTML & CSS Basics",
+          "pages": 20
+        },
+        {
+          "name": "Responsive Design",
+          "pages": 25
+        },
+        {
+          "name": "UX/UI Principles",
+          "pages": 30
+        },
+        {
+          "name": "Web Design Tools",
+          "pages": 20
+        },
+        {
+          "name": "Advanced Topics",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "no_of_chapters": 7,
+      "author": "Tom Baker",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "Financial Analysis",
+      "category": "Creative",
+      "release_year": 2018,
+      "chapters": [
+        {
+          "name": "Introduction to Financial Analysis",
+          "pages": 10
+        },
+        {
+          "name": "Financial Statements",
+          "pages": 15
+        },
+        {
+          "name": "Ratio Analysis",
+          "pages": 20
+        },
+        {
+          "name": "Cash Flow Analysis",
+          "pages": 25
+        },
+        {
+          "name": "Forecasting",
+          "pages": 20
+        },
+        {
+          "name": "Valuation",
+          "pages": 30
+        },
+        {
+          "name": "Case Studies",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "no_of_chapters": 6,
+      "author": "Rebecca Green",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "Graphic Design Basics",
+      "category": "Creative",
+      "release_year": 2020,
+      "chapters": [
+        {
+          "name": "Introduction to Graphic Design",
+          "pages": 10
+        },
+        {
+          "name": "Design Principles",
+          "pages": 15
+        },
+        {
+          "name": "Typography",
+          "pages": 20
+        },
+        {
+          "name": "Color Theory",
+          "pages": 25
+        },
+        {
+          "name": "Design Tools",
+          "pages": 30
+        },
+        {
+          "name": "Portfolio Building",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "no_of_chapters": 5,
+      "author": "Chris Brown",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "Digital Marketing",
+      "category": "Business",
+      "release_year": 2017,
+      "chapters": [
+        {
+          "name": "Introduction to Digital Marketing",
+          "pages": 20
+        },
+        {
+          "name": "SEO and SEM",
+          "pages": 25
+        },
+        {
+          "name": "Social Media Marketing",
+          "pages": 30
+        },
+        {
+          "name": "Email Marketing",
+          "pages": 20
+        },
+        {
+          "name": "Content Marketing",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "no_of_chapters": 8,
+      "author": "Anna Watson",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "Machine Learning Basics",
+      "category": "Technical",
+      "release_year": 2021,
+      "chapters": [
+        {
+          "name": "Introduction to Machine Learning",
+          "pages": 10
+        },
+        {
+          "name": "Supervised Learning",
+          "pages": 20
+        },
+        {
+          "name": "Unsupervised Learning",
+          "pages": 25
+        },
+        {
+          "name": "Reinforcement Learning",
+          "pages": 30
+        },
+        {
+          "name": "Neural Networks",
+          "pages": 35
+        },
+        {
+          "name": "Deep Learning",
+          "pages": 40
+        },
+        {
+          "name": "Model Evaluation",
+          "pages": 25
+        },
+        {
+          "name": "Case Studies",
+          "pages": 20
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "no_of_chapters": 6,
+      "author": "Daniel Craig",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "E-Commerce Fundamentals",
+      "category": "Business",
+      "release_year": 2016,
+      "chapters": [
+        {
+          "name": "Introduction to E-Commerce",
+          "pages": 10
+        },
+        {
+          "name": "Setting Up an Online Store",
+          "pages": 20
+        },
+        {
+          "name": "Payment Systems",
+          "pages": 15
+        },
+        {
+          "name": "Digital Marketing for E-Commerce",
+          "pages": 30
+        },
+        {
+          "name": "Customer Service",
+          "pages": 20
+        },
+        {
+          "name": "Case Studies",
+          "pages": 25
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "no_of_chapters": 5,
+      "author": "Laura Smith",
+      "cover_photo": "https://i.pinimg.com/564x/f7/c8/12/f7c812c9b0296cd9f119e33a06d9a256.jpg",
+      "book_name": "Social Media Strategy",
+      "category": "Business",
+      "release_year": 2019,
+      "chapters": [
+        {
+          "name": "Introduction to Social Media Strategy",
+          "pages": 15
+        },
+        {
+          "name": "Creating Engaging Content",
+          "pages": 20
+        },
+        {
+          "name": "Building a Following",
+          "pages": 25
+        },
+        {
+          "name": "Analyzing Social Media Metrics",
+          "pages": 20
+        },
+        {
+          "name": "Case Studies",
+          "pages": 30
+        }
+      ]
+    }
+  ]
+}
